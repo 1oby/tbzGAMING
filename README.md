@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @tbzGAMING
-- 👀 I’m interested in coding
-- 📫 How to reach me?  discord: tbzGAMING#8448
+learning python
+discord : tbzGAMING#0001
