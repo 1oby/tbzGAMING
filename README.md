@@ -1,2 +1,2 @@
 learning python
-discord : tbzGAMING#0001
+discord : tbzGAMING#7590
